@@ -1,6 +1,6 @@
 streamlit
 opencv-python
-streamlit-webrtc
-Pillow
 numpy
+pillow
+streamlit-webrtc
 streamlit-drawable-canvas
